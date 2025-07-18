@@ -1,0 +1,7 @@
+Modular code for each device.
+
+Button press toggles respective appliance.
+
+UART output helps you debug or monitor device status.
+
+Easy to extend by adding more modules like temperature, motion sensor, etc.
