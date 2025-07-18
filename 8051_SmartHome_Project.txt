@@ -1,0 +1,11 @@
+8051_SmartHome_Project/
+│
+├── fan.h
+├── fan.c
+├── light.h
+├── light.c
+├── buzzer.h
+├── buzzer.c
+├── lock.h
+├── lock.c
+├── main.c
